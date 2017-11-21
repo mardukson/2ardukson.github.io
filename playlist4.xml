@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<playlist image="playlist4.jpg">
+	<item>
+		<filename>example1.flv</filename>
+		<artist>Killeen%20and%20Gieson</artist>
+		<title>Roll over me to see link arrow</title>
+		<link>foo=bar&foo2=bar2</link>
+		<image>example1.jpg</image>
+	</item>
+	<item>
+		<filename>example3.flv</filename>
+		<artist>Killeen%20and%20Gieson</artist>
+		<title>Click me, then click video window</title>
+		<link><data1> data one value</data1></link>
+		<image>example2.jpg</image>
+	</item>
+</playlist>
